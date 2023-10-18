@@ -26,7 +26,7 @@ npm run dev
 - https://www.npmjs.com/package/@feedzai/autovizua11y
 - https://diogorduarte.github.io/autovizua11y-examples/
 - https://github.com/DiogoRDuarte/autovizua11y-examples/tree/main
-- https://github.com/DiogoRDuarte/autovizua11y-examples/blob/main/src/components/manual/BarChartManual.jsx
+- https://github.com/DiogoRDuarte/autovizua11y-examples/blob/main/src/components/manual/BarChartManual.jsx + https://github.com/DiogoRDuarte/autovizua11y-examples/blob/main/src/data/country_data.json
 - https://github.com/vitejs/vite-plugin-react-swc
 - https://vitejs.dev/guide/env-and-mode.html + https://vitejs.dev/guide/env-and-mode.html#intellisense-for-typescript
 - https://www.npmjs.com/package/text-encoding
@@ -46,6 +46,8 @@ npm run dev
 - https://www.npmjs.com/package/@evilmartians/harmony
 - https://www.figma.com/community/file/1287828769207775946
 - https://www.figma.com/community/plugin/1281280685402026529/polychrom
+- https://github.com/facebook/react/blob/v18.2.0/packages/react-dom/src/client/validateDOMNesting.js
+- https://support.apple.com/en-gb/guide/voiceover/vo2682/10/mac/12.0
 
 ### Commands
 
