@@ -1,5 +1,7 @@
+import SimpleBarChart from "./SimpleBarChart";
+
 function App() {
-  return <p>Hello, World!</p>;
+  return <SimpleBarChart />;
 }
 
 export default App;
