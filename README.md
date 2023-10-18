@@ -47,7 +47,8 @@ npm run dev
 - https://www.figma.com/community/file/1287828769207775946
 - https://www.figma.com/community/plugin/1281280685402026529/polychrom
 - https://github.com/facebook/react/blob/v18.2.0/packages/react-dom/src/client/validateDOMNesting.js
-- https://support.apple.com/en-gb/guide/voiceover/vo2682/10/mac/12.0
+- https://support.apple.com/en-gb/guide/voiceover/vo2682/10/mac/12.0 (`Command-F5`)
+- https://github.com/egoist/ts-lib-starter
 
 ### Commands
 

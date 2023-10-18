@@ -13,7 +13,7 @@ function App() {
       data={autovizData}
       selectorType={{ element: "rect" }}
       type="Bar chart"
-      descriptor="test"
+      descriptor="unit"
       title="Simple bar chart"
       context="Simple example to test AutoVizuA11y."
       manualDescriptions={{
