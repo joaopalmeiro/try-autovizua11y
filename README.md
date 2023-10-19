@@ -49,6 +49,7 @@ npm run dev
 - https://github.com/facebook/react/blob/v18.2.0/packages/react-dom/src/client/validateDOMNesting.js
 - https://support.apple.com/en-gb/guide/voiceover/vo2682/10/mac/12.0 (`Command-F5`)
 - https://github.com/egoist/ts-lib-starter
+- https://developer.chrome.com/docs/devtools/storage/localstorage/#view
 
 ### Commands
 
